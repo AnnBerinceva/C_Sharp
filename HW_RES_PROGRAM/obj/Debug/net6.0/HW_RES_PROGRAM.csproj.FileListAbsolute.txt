@@ -1,0 +1,15 @@
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.csproj.AssemblyReference.cache
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.AssemblyInfoInputs.cache
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.AssemblyInfo.cs
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\bin\Debug\net6.0\HW_RES_PROGRAM.exe
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\bin\Debug\net6.0\HW_RES_PROGRAM.deps.json
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\bin\Debug\net6.0\HW_RES_PROGRAM.runtimeconfig.json
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\bin\Debug\net6.0\HW_RES_PROGRAM.dll
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\bin\Debug\net6.0\HW_RES_PROGRAM.pdb
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.dll
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\refint\HW_RES_PROGRAM.dll
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.pdb
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\HW_RES_PROGRAM.genruntimeconfig.cache
+C:\Users\SoulStrike\Desktop\HW_RES\HW_RES_PROGRAM\obj\Debug\net6.0\ref\HW_RES_PROGRAM.dll
